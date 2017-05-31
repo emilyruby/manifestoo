@@ -180,6 +180,17 @@
   approach to rough sleeping.
 * Reform and modernise the home-buying process so its more efficient and less
   costly.
+* Deliver 1 million homes by the end of 2020 and half a million more by the end
+  of 2022.
+* Maintain the existing strong protections on designated land like the green belt,
+  national parks and areas of outstanding natural beauty.
+* Enter new `Council Housing Deals` with ambitious, pro-development, local
+  authorities to help them build more social housing.
+* Reform `Compulsory Purchase Orders` to make it easier and less expensive for  
+  councils to use and to make it easier and less expensive for councils to use
+  and to make it easier to determine true market value of sites.
+* Continue the £2.5 billion flood defense programme which should protect 300,000
+  existing homes by 2021. 
 
 ## Healthcare
 
