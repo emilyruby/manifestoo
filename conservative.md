@@ -92,6 +92,14 @@
   law.
 * Remain signatories of the `European Convention on Human Rights` for the duration
   of the next parliament.
+* Reduce immigration to tens of thousands.
+* Increase the earnings threshold for people wishing to sponsor migrants for family
+  visas.
+* Toughen the visa requirements for students- expect students to leave the country
+  at the end of their degree unless they meet new, higher requirements allowing
+  them to live in Britain after their studies have concluded.
+* Bring forward a new integration strategy.
+* Establish a `Commission for Countering Extremism`.
 
 ### Trade and Brexit
 
@@ -99,7 +107,43 @@
 
 ## Education
 
-* 
+* Build at least 100 new free schools a year.
+* Prohibit councils from creating any new places in schools that have either been
+  rated 'inadequate' or 'requires improvement' by `Ofsted`.
+* Universities who charge maximum tuition fees will have to become involved in
+  academy sponsorship or founding free schools.
+* Open a specialist maths school in every major city in England.
+* Require new faith schools to prove that parents of other faiths, and none, would
+  be prepared to send their children to that school.
+* Ensure that at least 100 leading independent schools become involved in academy
+  sponsorship or founding of new free schools (if progress is not made, change
+  the tax status of independent schools).
+* Lift the ban on the establishment of selective schools.
+* Conduct a review of the school admissions policy.
+* Expect every 11 year old to know their times tables off by heart.
+* Expect 75% of pupils to have been entered for the `EBacc` combination of GCSEs
+  by the end of the next parliament. Have 90% of pupils studying this combination
+  by 2025.
+* Consider how Ofsted can give parents more information about what their children
+  are being taught.
+* Offer forgiveness on student loan repayments whilst new teachers are teaching.
+* Establish a single portal for teaching jobs.
+* Increase the overall schools budget by £4 billion by 2022.
+* Remove universal free school lunches for 5-7 year olds.
+* Provide free school breakfast to every child in every year of primary school.
+* Replace 13,000 existing technical qualifications with new qualifications called
+  `T-Levels`. Increase the number of teaching hours by 50% to an average of 900
+  hours per year. Make sure every student does a 3 month placement as part of
+  their course.
+* Establish new `Institutions of Technology` in every major city in England.
+* Deliver the commitment to create 3 million apprenticeships by 2020.
+* Introduce reduced bus and train travel for apprentices.
+* Introduce a new `Right to Request Leave for Training` for employees.
+* Introduce a `National Training Scheme` where the costs of training will be
+  met by the government.
+* Ensure that teaching assistants can become qualified teachers, and healthcare
+  nurses can become nurses via a degree apprenticeship route.
+* Introduce a `Right to Lifelong Learning in Digital Skills`.
 
 ## Environment
 
