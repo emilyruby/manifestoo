@@ -188,7 +188,7 @@ parliament.
 * Increase the proportion of mental health budgets spent on support for childcare
 and young people.
 
-## Security
+## Security & Defense
 
 * Recruit 10,000 more police officers to work on community beats.
 * Ensure appropriate support provided to victims of crime.

@@ -2,8 +2,6 @@
 
 ## Economy
 
-* Continue the fiscal rules announced by the Chancellor last year, leading to a
-  balanced budget by 2025.
 * By 2020, personal allowance will be increased to £12,500 and the higher rate to
   £50,000.
 * Ensure that local residents can veto high increases in Council Tax via a  referendum.
@@ -33,19 +31,35 @@
   shareholders and listed companies will have to publish the ratio of executive
   pay to broader UK workforce pay.
 * Introduce, subject to sensible safeguards, the right for employees to request
-  information relating to the future direction or the company. 
+  information relating to the future direction or the company.
+* Extend the `Coastal Communities Fund` to 2022.
 
 ### Deficit Reduction
 
-
+* Continue the fiscal rules announced by the Chancellor last year, leading to a
+  balanced budget by 2025.
 
 ### Infrastructure
 
-
+* Create extra capacity on our railways, which will ease overcrowding. Bring new
+  lines and stations, and improve existing routes- including for freight.
+* Help shipyards modernise and collaborate.
+* Continue investment into strategies such as `High Speed 2`, `Northern Powerhouse
+  Rail` and the expansion of Heathrow Airport.  
+* Target `National Productivity Investment Fund` spending at housing, research
+  and development, economic infrastructure and skills.
 
 ### Industry
 
-
+* Establish funding streams to ensure investment for the long term.
+* Increase spending on `Research and Development` so that we meet the `OECD`
+  average for investment in R&D - 2.4% of GPD within 10 years.
+* Build up the investment funds of our universities across the UK.
+* Create a number of `Sovereign Wealth Funds`, known as `Future Britain Funds`.
+* Ensure that 33% of central government spending is from SME's.
+* Ensure that big companies/contractors comply with the `Prompt Payment Code`.
+* Make CCTV recording mandatory in slaughterhouses.
+* Withdraw from the `London Fisheries Convention`.
 
 ### Finance
 
@@ -65,7 +79,19 @@
 
 ## Brexit
 
-
+* Set aside significant numbers of visas for workers in `strategically important
+  sectors`.
+* Double the `Immigration Skills Charge` levied on companies employing migrant
+  workers to £2000 per year.
+* Continue to believe that no deal is better than a bad deal.
+* Maintain the `Common Travel Area`.
+* Protect the democratic freedom of the people in Gibraltar and for our overseas
+  territories to remain British, for as long as that is their wish.
+* Enact on the `Great Repeal Bill`.
+* Will not bring the European Union's `Charter for Fundamental Rights` into UK
+  law.
+* Remain signatories of the `European Convention on Human Rights` for the duration
+  of the next parliament.
 
 ### Trade and Brexit
 
@@ -73,13 +99,28 @@
 
 ## Education
 
-
+* 
 
 ## Environment
 
+* Want almost every car and van to be zero-emission by 2050- invest £600 million
+  by 2020 to help achieve it.
+* Invest more in low-emission buses, audio-visual displays for bus passengers,
+  and community minibuses for rural areas poorly served by public transport.
+* Devise a new agri-environment system.
+* Help `Natural England` to deliver environmental improvements.
+* Grant a free vote, on a government bill in government time, to give parliament
+  the opportunity to decide the future of the `Hunting Act`.
+* Produce a 25 year environment plan that will chart how we improve the environment.
+
 ### Energy
 
-
+* Continue to support natural resource extractions from the `North Sea` and support
+  the oil and gas sector.
+* Commission an independent review into the cost of energy.
+* Support the development of wind projects in the remote islands of Scotland.
+* Legislate to change planning law for Shale applications.
+* Set up a new `Shale Environmental Regulator`
 
 ## Housing
 
@@ -89,9 +130,43 @@
 
 
 
-## Security
+## Security & Defense
 
-
+* British troops will in future be subject to the `Law of Armed Conflict`, which
+  includes the `Geneva Convention` and `UK Service Law`, not the `European Court
+  of Human Rights`.
+* Introduce better compensation for injured armed forces personnel and the families
+  of those killed in combat.
+* Invest £178 billion in new military equipment over the next decade.
+* Build 8 Type-26 anti-submarine frigates.
+* Deliver 5 Offshore Patrol Vessels
+* For the army, deliver AJAX armoured vehicles, Apache attack helicopters, new
+  drones, new missile and bomb systems, and better equipment for special forces.
+* The RAF will receive the Lightning II strike fighter and new maritime patrol
+  aircraft.
+* Maintain and strengthen the `Armed Forces Covenant`.
+* Introduce a `Veterans Board` in the cabinet office.
+* Legislate for roles for life in British overseas electors.
+* Reduce the number of MP's to 600.
+* Retain the `past the post` voting system and extend this system to Police &
+  Crime commissioner and mayoral elections.
+* Repeal the `Fixed-term Parliaments Act`.
+* Legislate to ensure that a form of identification must be presented before
+  voting.
+* Ensure that child victims and victims of sexual violence are able to be
+  cross-examined before their trial without appearing in court.
+* Introduce an independent public advocate who will act for bereaved families
+  after a public disaster and support them at inquests.
+* Extend the scope of the `Unduly Lenient Sentence Scheme`.
+* Create a `Nation Infrastructure Police Force` from the `Civil Nuclear Constables`,
+  the `Ministry of Defense Police Force` and the `British Transport Police`.
+* Incorporate the `Serious Fraud Office` into the `National Crime Agency`.
+* Work with the `National Cyber Security Centre` to reduce/prevent attacks
+  wherever possible.
+* Build on the `Policing and Crime Act`.
+* Invest over £1 billion to modernise the prison estate and creating 10,000
+  modern prison places.
+* Create a `National Community Sentencing Framework`.
 
 ## Additional Infrastructure
 
@@ -112,10 +187,6 @@
 
 
 ### Tourism
-
-
-
-### Environment
 
 
 
@@ -148,3 +219,12 @@
 
 
 ## Foreign Policy
+
+* Maintain the commitment to spend 0.7% of GNI on foreign aid.
+* Offer asylum and refuge to people in parts of the world affected by conflict &
+  oppression, rather than those who have made it to Britain.
+* Work with the overseas territory governments to create a `Blue Belt` of marine
+  protection in their precious waters, establishing the largest marine sanctuaries
+  in the world.
+* Review the application of the `Modern Slavery Act` to strengthen our ability to
+  stop criminals putting people in exploitative working conditions.
