@@ -208,7 +208,7 @@ duty to coordinate and respond to floods.
 * Recruit 3000 more prison officers and review the training and professional
 development available.
 * Insist on personal rehabilitation plans for all prisoners.
-* Review the privision of mental health services in prisons.
+* Review the provision of mental health services in prisons.
 * No new private prisons.
 * Embed restorative justice practices across all youth offending institutions.
 

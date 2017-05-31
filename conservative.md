@@ -48,6 +48,7 @@
   Rail` and the expansion of Heathrow Airport.  
 * Target `National Productivity Investment Fund` spending at housing, research
   and development, economic infrastructure and skills.
+* Review railticketing and introduce a `Passenger Ombudsman`.
 
 ### Industry
 
@@ -164,15 +165,56 @@
 * Commission an independent review into the cost of energy.
 * Support the development of wind projects in the remote islands of Scotland.
 * Legislate to change planning law for Shale applications.
-* Set up a new `Shale Environmental Regulator`
+* Set up a new `Shale Environmental Regulator`.
+* Ensure smart meters are offered to every household and business by the end of
+  2020.
+* Introduce a safeguard tariff cap on energy bills for vulnerable customers.
+* Commit to upgrade all fuel poor homes to `EPC Band C` by 2030.
 
 ## Housing
 
-
+* Create a `Domestic Violence and Abuse Commissioner` in law.
+* Full implementation of the `Homeless Reduction Act` - aim to halve rough sleeping
+  over the course of parliament, and eliminate it by 2027.
+* Set up a new `Homelessness Reduction Taskforce`, piloting a housing-first
+  approach to rough sleeping.
+* Reform and modernise the home-buying process so its more efficient and less
+  costly.
 
 ## Healthcare
 
-
+* Reform outdated laws to ensure that those with mental illnesses are treated
+  illnesses are treated fairly, and employers fulfill their responsibilities
+  effectively.
+* Introduce a new `Mental Health Bill`.
+* Increase NHS spending by a minimum of £8 billion over the next 5 years.
+* Build and upgrade care facilities, mental health clinics, and hospitals in
+  every part of England.
+* Ensure that new NHS numbers are not issued to patients until their eligibility
+  is verified.
+* Increase `Immigration Health Surcharge` to £600 for migrant workers and £450
+  for international students.
+* Implement the recommendations of the `Accelerated Access Review`.
+* Review the operation of the NHS internal market, and make non-legislative
+  changes to remove barriers to the integration of care.
+* Introduce a new GP contract to help develop wider primary care services.
+* Encourage the development of new roles and create a diverse set of career paths
+  for the NHS workforce.
+* Strengthen NHS workers entitlement to flexible working.
+* Make clinical outcomes more transparent.
+* Give patients ways to book appointments, contact the 111 service, order repeat
+  prescriptions, and access & update aspects of their care records either through
+  digital means or over the phone.
+* Pilot the live publication of waiting times data for A&E and other urgent care
+  services.
+* Ensure the whole population can get routine weekend of evening appointments at
+  either their own GP, or one nearby, by 2019.
+* Legislate for an independent `Healthcare Safety Investigations` body in the NHS.
+* In cancer services, deliver on the new promise to give patients a definitive
+  diagnosis within 28 days by 2020.
+* Recruit up to 10,000 more mental health professionals.
+* Ensure all families that lose a baby are given the bereavement support they
+  need, including a new entitlement to child bereavement leave.
 
 ## Security & Defense
 
@@ -214,6 +256,11 @@
 
 ## Additional Infrastructure
 
+* Strengthen the enforcement of equalities law.
+* Introduce a `Domestic Violence and Abuse Bill` to consolidate all civil and
+  criminal prevention and protection orders and provide for a new aggravated
+  offense is behavior is directed towards a child.
+
 ### Local Communities
 
 
@@ -228,7 +275,21 @@
 
 ### Social Services and Security
 
-
+* Adopt a `Breathing Space` scheme so that somebody in problem debt can apply
+  for legal protection from further interest, charges and enforcement action for
+  up to 6 weeks.
+* Promise to maintain the `Pensions Triple-Lock` until 2020. When it expires,
+  introduce a new `Double-Lock`, meaning pensions will rise along with the earnings
+  that pay for them or inline with inflation (whichever is highest).
+* Ensure that state pension age reflects increases in life expectancy.
+* The value of the family home will be taken into account along with other assets
+  and income when means-testing for domiciliary care.
+* Introduce a single capital floor, set at £100,000. No matter how large the cost
+  of care turns out to be, people will always retain at least £100,000 of their
+  savings and assets.
+* Extend the current freedom to defer payments for residential care to those
+  receiving care at home.
+* Means-test winter fuel payments.
 
 ### Tourism
 
@@ -250,7 +311,8 @@
 
 ### Women
 
-
+* Require companies with >250 employees to publish more data on the pay gap
+  between men and women.
 
 ### LGBTQ+ Rights
 
@@ -258,9 +320,21 @@
 
 ### Diverse Communities
 
-### Disabilities
+* Reduce the disproportionate use of force against black, asian and ethnic minority
+  people in prison, young offenders institutions and secure mental health units.
+* Launch a national campaign to increase the number of black, asian and ethnic
+  minority organ donors.
 
+### Disabilities and Mental Health
 
+* Amend Health and Safety Regulations so that employers provide appropriate
+  first aid training and needs assessment for mental health.
+* Extend the `Equalities Act` protections against discrimination to mental
+  health conditions that are episodic and fluctuating.
+* Train 1 million members of the public on basic mental health awareness & first
+  aid.
+* Get 1 million more people with disabilities into employment over the next 10
+  years.
 
 ## Foreign Policy
 
