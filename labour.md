@@ -1,6 +1,6 @@
 # Labour Manifesto
 
-## Economy
+## Economy and Democracy
 
 * `Tax Transparency and Enforcement Programme`.
 * Guarantee no rises in income tax for those earning <£80,000 a year (with no
@@ -9,6 +9,12 @@
 * Increase corporation tax for large companies.
 * Lower small profits rate of corporation tax. Small business (with turnover
   of <£85,000) are excluded from quarterly reporting and late payment actions.
+* Double the size of the corporate sector.
+* Reinstate the `Cross-Whitehall Ministerial Group on Tourism`.
+* Elected `House of Lords`, and reduce the size of the House of Lords.
+* Extend the `Freedom of Information Act` to private companies that run public
+services.
+* Reduce the voting age to 16.
 
 ### Deficit Reduction
 
@@ -17,11 +23,17 @@
 ### Infrastructure
 
 * National Transformation Fund to `upgrade the economy`.
-* Complete HS2 railline which will be linked to Crossrail of the North, etc.
+* Complete HS2 rail-line which will be linked to Crossrail of the North, etc.
 * `Crossrail 2` built in London.
 * Complete `Science Vale transport arc`.
 * Rail electrification and expansion across the whole country.
-* Deliver universal superfast broadband and availability by 2022.
+* Deliver universal super-fast broadband and availability by 2022.
+* Reintroduce road safety targets.
+* Bring private rail companies back into public ownership as their franchises
+expire.
+* Transition to a publicly-owned de-centralised energy system.
+* Replace the current water system with a network of publicly-owned water companies.
+* Reverse the privatisation of the Royal Mail at the earliest opportunity.
 
 ### Industry
 
@@ -31,30 +43,15 @@
 * Councils established for each `strategic industry` in the UK.
 * Reduce boardroom pay excesses by moving towards a 20:1 gap between highest and
 lowest paid.
-* Appoint a `Digital Ambassador`
-
-### Finance
-
+* Appoint a `Digital Ambassador`.
 * Establish a `National Investment Bank` to bring in private capital finance.
 * Law changed so that banks cannot close a branch where there is a clear local need.
-
-### Business
-
 * `Excessive Pay levy` introduced to reduce the pay gap.
 * Amend the takeover regime to ensure that businesses which are `systematically
 important` have a clear plan to protect workers and pensioners when the company
 is taken over.
 * Mandate the new National Investment Bank to improve the funding gap.
 * Lower the small business corporate tax rate.
-
-### Privatisation
-
-* Double the size of the corporate sector.
-* Bring private rail companies back into public ownership as their franchises
-expire.
-* Transition to a publicly-owned decentralised energy system.
-* Replace the current water system with a network of publicly-owned water companies.
-* Reverse the privatisation of the Royal Mail at the earliest opportunity.
 
 ### Employment
 
@@ -102,9 +99,6 @@ and increase prosecutions of employers evading the minimum wage.
 * Reinstate the `Migrant Impact Fund` and boost it with a contributory element
 from the investments required for `High Net Worth Individual Visas`.
 * Review current arrangements for housing and dispersing refugees.
-
-### Trade and Brexit
-
 * Set out priorities in an `International Trade White Paper`.
 * Work with global trading partners through the `Just Trading` initiative,
 to develop free trade investment agreements that remove trade barriers and promote
@@ -115,7 +109,7 @@ our markets.
 * Create a network of regional trade and investment champions.
 * Actively support international negotiations towards an Environmental Goods Agreement at the WTO.
 
-## Education
+## Education and Childcare
 
 * Transition the childcare system to a system of high quality childcare places
 in mixed environments with direct government subsidy.
@@ -147,9 +141,7 @@ pay the apprenticeship levy.
 leavers and veterans.
 * Reintroduce maintenance grants for students, and abolish university tuition fees.
 
-## Environment
-
-### Energy
+## Environment and Animal Cruelty
 
 * Introduce an immediate emergency price cap to ensure that the average duel-fuel
 household energy bill remains <£1000 per year.
@@ -165,6 +157,12 @@ household energy bill remains <£1000 per year.
 * Support further nuclear projects.
 * Put the UK back on track to meet targets in the `Climate Change Act` and the
 `Paris Agreement`.
+* Introduce a new `Clean Air Act`.
+* Keep forests in public hands and plan a million trees.
+* Increase the maximum sentence for those convicted of animal cruelty.
+* Prohibit the 3rd party sale of puppies.
+* Introduce and enforce a total ban on ivory trading.
+* Cease the badger cull.
 
 ## Housing
 
@@ -183,10 +181,6 @@ a council building program.
 * Lay the foundations for a `National Care Service` for England.
 * Increase social care budgets by £8 billion over the lifetime of the next
 parliament.
-* Ring-fence mental health budgets and ensure funding reaches the front line.
-* Bring forwards the ending of out-of-area placements to 2019.
-* Increase the proportion of mental health budgets spent on support for childcare
-and young people.
 
 ## Security & Defense
 
@@ -208,11 +202,8 @@ duty to coordinate and respond to floods.
 * Recruit 3000 more prison officers and review the training and professional
 development available.
 * Insist on personal rehabilitation plans for all prisoners.
-* Review the provision of mental health services in prisons.
 * No new private prisons.
 * Embed restorative justice practices across all youth offending institutions.
-
-## Additional Infrastructure
 
 ### Local Communities
 
@@ -220,13 +211,6 @@ development available.
 * Reduce the maximum stake on `Fixed Odds Betting Terminals` from £100 to £2.
 * Reinstate the `Seasonal Agricultural Workers Scheme` and `Agricultural Wages
 Board`.
-
-### Transport
-
-* Reintroduce road safety targets.
-
-### Sport
-
 * Enforce an anti-bot legislation and implement the recommendations of the
 `Waterson Review.`
 
@@ -255,57 +239,32 @@ challenged.
 in residential or other forms of care until they are 21.
 * Fund child burial fees for bereaved parents.
 
-### Tourism
+### Diverse Communities
 
-* Reinstate the `cross-Whitehall Ministerial Group on Tourism`.
+* Appoint a `Violence Against Women Commissioner` to enforce minimum standards in
+tackling domestic and sexual violence.
+* Reform the `Gender Recognition Act` and `Equality Act 2010` to protect trans
+people by changing the protected characteristic from 'gender assignment' to
+'gender identity' and remove outdated language.
+* Bring the law on LGBT hate crimes into line with hate crimes based on race and
+faith.
+* Legislate to make terminal illness a protected characteristic under the
+`Equality Act`.
+* Give British Sign Language full recognition as a recognised language.
 
-### Environment
+### Disabilities and Mental Health
 
-* Introduce a new `Clean Air Act`.
-* Keep forests in public hands and plan a million trees.
+* Ring-fence mental health budgets and ensure funding reaches the front line.
+* Bring forwards the ending of out-of-area placements to 2019.
+* Increase the proportion of mental health budgets spent on support for childcare
+and young people.
+* Review the provision of mental health services in prisons.
 
 ### Culture and Arts
 
 * Introduce a £1 billion `Cultural Capital Fund`.
 * Introduce an arts pupil premium- a £160 million annual boost for schools to
 invest in projects that will support cultural activity.
-
-### Animal Welfare
-
-* Increase the maximum sentence for those convicted of animal cruelty.
-* Prohibit the 3rd party sale of puppies.
-* Introduce and enforce a total ban on ivory trading.
-* Cease the badger cull.
-
-### Democracy
-
-* Elected `House of Lords`, and reduce the size of the House of Lords.
-* Extend the `Freedom of Information Act` to private companies that run public
-services.
-* Reduce the voting age to 16.
-
-### Security
-
-### Women
-
-* Appoint a `Violence Against Women Commissioner` to enforce minimum standards in
-tackling domestic and sexual violence.
-
-### LGBTQ+ Rights
-
-* Reform the `Gender Recognition Act` and `Equality Act 2010` to protect trans
-people by changing the protected characteristic from 'gender assignment' to
-'gender identity' and remove outdated language.
-* Bring the law on LGBT hate crimes into line with hate crimes based on race and
-faith.
-
-### Diverse Communities
-
-### Disabilities
-
-* Legislate to make terminal illness a protected characteristic under the
-`Equality Act`.
-* Give British Sign Language full recognition as a recognised language.
 
 ## Foreign Policy
 

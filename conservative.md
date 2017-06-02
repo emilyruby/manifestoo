@@ -1,6 +1,6 @@
 # Conservative Manifesto
 
-## Economy
+## Economy and Democracy
 
 * By 2020, personal allowance will be increased to £12,500 and the higher rate to
   £50,000.
@@ -61,22 +61,36 @@
 * Ensure that big companies/contractors comply with the `Prompt Payment Code`.
 * Make CCTV recording mandatory in slaughterhouses.
 * Withdraw from the `London Fisheries Convention`.
-
-### Finance
-
-
-
-### Business
-
-
-
-### Privatisation
-
-
-
-### Employment
-
-
+* Oblige all companies to give digital receipts, clearer terms and conditions when
+  selling goods and services online, and support new digital proofs of
+  identification.
+* By the end of 2017, 19 out of 20 premises will have access to superfast
+  broadband.
+* Ensure through the `Universal Service Obligation`, that every home and business
+  in Britain has access to high speed broadband.
+* Introduce a full fiber connection voucher for companies across the country by
+  2018.
+* By 2022, extend mobile coverage further to 95% geographic coverage of the UK.
+* By 2022, ensure all major roads and mainline trains have uninterrupted phone
+  service and guaranteed WiFi internet on all such trains.
+* Have a majority of the UK population covered by a 5G signal by 2027.
+* Give people the ability to require major social media platforms to delete
+  information about them at the age of 18.
+* Institute an expert `Data Use and Ethics Commission`.
+* Continue a £1.9 billion investment in cyber security.
+* Repeal section 40 of the `Crime and Courts Act 2014`.
+* Create a new presumption of digital government services by default.
+* Create a new `Schools Map` to help parents choose the school that is right for
+  their child.
+* Roll out `Verify` so that people can identify themselves on all government
+  services by 2020.
+* Reduce data duplication across all systems, so that we automatically comply
+  with the `Once Only` principle in central government services by 2022 and
+  wider public services by 2025.
+* Combine the relevant parts of `HM Land Registry`, `Ordnance Survey`, the
+  `Valuation Office Agency`, the `Hydrographic Office` and `Geological Survey`
+  to create a comprehensive geospatial data body in government.
+* Establish a regulatory framework in law to underpin the digital charter.
 
 ## Brexit
 
@@ -102,11 +116,7 @@
 * Bring forward a new integration strategy.
 * Establish a `Commission for Countering Extremism`.
 
-### Trade and Brexit
-
-
-
-## Education
+## Education and Childcare
 
 * Build at least 100 new free schools a year.
 * Prohibit councils from creating any new places in schools that have either been
@@ -145,8 +155,17 @@
 * Ensure that teaching assistants can become qualified teachers, and healthcare
   nurses can become nurses via a degree apprenticeship route.
 * Introduce a `Right to Lifelong Learning in Digital Skills`.
+* Introduce 30 hours of free childcare for 3 to 4 year olds for working families
+  who find it difficult to manage the costs of childcare.
+* Institute a capital fund to help primary schools develop nurseries.
+* Introduce the presumption that all new primary schools should include a nursery.
+* Publish a green paper on young peoples' mental health before the end of this
+  year.
+* Introduce mental health first aid training for teachers in every primary and
+  secondary school by the end of parliament and ensure every school has a single
+  point of contact with mental health services.
 
-## Environment
+## Environment and Animal Cruelty
 
 * Want almost every car and van to be zero-emission by 2050- invest £600 million
   by 2020 to help achieve it.
@@ -157,9 +176,6 @@
 * Grant a free vote, on a government bill in government time, to give parliament
   the opportunity to decide the future of the `Hunting Act`.
 * Produce a 25 year environment plan that will chart how we improve the environment.
-
-### Energy
-
 * Continue to support natural resource extractions from the `North Sea` and support
   the oil and gas sector.
 * Commission an independent review into the cost of energy.
@@ -190,7 +206,7 @@
   councils to use and to make it easier and less expensive for councils to use
   and to make it easier to determine true market value of sites.
 * Continue the £2.5 billion flood defense programme which should protect 300,000
-  existing homes by 2021. 
+  existing homes by 2021.
 
 ## Healthcare
 
@@ -265,24 +281,12 @@
   modern prison places.
 * Create a `National Community Sentencing Framework`.
 
-## Additional Infrastructure
+### Local Communities
 
 * Strengthen the enforcement of equalities law.
 * Introduce a `Domestic Violence and Abuse Bill` to consolidate all civil and
   criminal prevention and protection orders and provide for a new aggravated
   offense is behavior is directed towards a child.
-
-### Local Communities
-
-
-
-### Transport
-
-
-
-### Sport
-
-
 
 ### Social Services and Security
 
@@ -302,35 +306,10 @@
   receiving care at home.
 * Means-test winter fuel payments.
 
-### Tourism
-
-
-
-### Culture and Arts
-
-
-
-### Animal Welfare
-
-
-
-### Democracy
-
-
-
-### Security
-
-### Women
+### Diverse Communities
 
 * Require companies with >250 employees to publish more data on the pay gap
   between men and women.
-
-### LGBTQ+ Rights
-
-
-
-### Diverse Communities
-
 * Reduce the disproportionate use of force against black, asian and ethnic minority
   people in prison, young offenders institutions and secure mental health units.
 * Launch a national campaign to increase the number of black, asian and ethnic
