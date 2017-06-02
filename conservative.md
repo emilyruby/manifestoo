@@ -48,14 +48,25 @@
   Rail` and the expansion of Heathrow Airport.  
 * Target `National Productivity Investment Fund` spending at housing, research
   and development, economic infrastructure and skills.
-* Review railticketing and introduce a `Passenger Ombudsman`.
+* Review rail-ticketing and introduce a `Passenger Ombudsman`.
+* Ensure through the `Universal Service Obligation`, that every home and business
+  in Britain has access to high speed broadband. By the end of 2017, 19 out of
+  20 premises will have access to super-fast broadband.
+* By 2022, extend mobile coverage further to 95% geographic coverage of the UK.
+* By 2022, ensure all major roads and mainline trains have uninterrupted phone
+  service and guaranteed WiFi internet on all such trains.
+* Have a majority of the UK population covered by a 5G signal by 2027.
+* Roll out `Verify` so that people can identify themselves on all government
+  services by 2020.
+* Reduce data duplication across all systems, so that we automatically comply
+  with the `Once Only` principle in central government services by 2022 and
+  wider public services by 2025.
 
 ### Industry
 
 * Establish funding streams to ensure investment for the long term.
 * Increase spending on `Research and Development` so that we meet the `OECD`
   average for investment in R&D - 2.4% of GPD within 10 years.
-* Build up the investment funds of our universities across the UK.
 * Create a number of `Sovereign Wealth Funds`, known as `Future Britain Funds`.
 * Ensure that 33% of central government spending is from SME's.
 * Ensure that big companies/contractors comply with the `Prompt Payment Code`.
@@ -64,29 +75,14 @@
 * Oblige all companies to give digital receipts, clearer terms and conditions when
   selling goods and services online, and support new digital proofs of
   identification.
-* By the end of 2017, 19 out of 20 premises will have access to superfast
-  broadband.
-* Ensure through the `Universal Service Obligation`, that every home and business
-  in Britain has access to high speed broadband.
 * Introduce a full fiber connection voucher for companies across the country by
   2018.
-* By 2022, extend mobile coverage further to 95% geographic coverage of the UK.
-* By 2022, ensure all major roads and mainline trains have uninterrupted phone
-  service and guaranteed WiFi internet on all such trains.
-* Have a majority of the UK population covered by a 5G signal by 2027.
-* Give people the ability to require major social media platforms to delete
-  information about them at the age of 18.
 * Institute an expert `Data Use and Ethics Commission`.
 * Continue a £1.9 billion investment in cyber security.
 * Repeal section 40 of the `Crime and Courts Act 2014`.
 * Create a new presumption of digital government services by default.
 * Create a new `Schools Map` to help parents choose the school that is right for
   their child.
-* Roll out `Verify` so that people can identify themselves on all government
-  services by 2020.
-* Reduce data duplication across all systems, so that we automatically comply
-  with the `Once Only` principle in central government services by 2022 and
-  wider public services by 2025.
 * Combine the relevant parts of `HM Land Registry`, `Ordnance Survey`, the
   `Valuation Office Agency`, the `Hydrographic Office` and `Geological Survey`
   to create a comprehensive geospatial data body in government.
@@ -164,6 +160,7 @@
 * Introduce mental health first aid training for teachers in every primary and
   secondary school by the end of parliament and ensure every school has a single
   point of contact with mental health services.
+* Build up the investment funds of our universities across the UK.
 
 ## Environment and Animal Cruelty
 
@@ -280,6 +277,8 @@
 * Invest over £1 billion to modernise the prison estate and creating 10,000
   modern prison places.
 * Create a `National Community Sentencing Framework`.
+* Give people the ability to require major social media platforms to delete
+  information about them at the age of 18.
 
 ### Local Communities
 
@@ -306,7 +305,7 @@
   receiving care at home.
 * Means-test winter fuel payments.
 
-### Diverse Communities
+### Diverse and Cultured Communities
 
 * Require companies with >250 employees to publish more data on the pay gap
   between men and women.

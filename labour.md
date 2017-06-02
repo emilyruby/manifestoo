@@ -239,7 +239,7 @@ challenged.
 in residential or other forms of care until they are 21.
 * Fund child burial fees for bereaved parents.
 
-### Diverse Communities
+### Diverse and Cultured Communities
 
 * Appoint a `Violence Against Women Commissioner` to enforce minimum standards in
 tackling domestic and sexual violence.
@@ -251,6 +251,9 @@ faith.
 * Legislate to make terminal illness a protected characteristic under the
 `Equality Act`.
 * Give British Sign Language full recognition as a recognised language.
+* Introduce a £1 billion `Cultural Capital Fund`.
+* Introduce an arts pupil premium- a £160 million annual boost for schools to
+invest in projects that will support cultural activity.
 
 ### Disabilities and Mental Health
 
@@ -259,12 +262,6 @@ faith.
 * Increase the proportion of mental health budgets spent on support for childcare
 and young people.
 * Review the provision of mental health services in prisons.
-
-### Culture and Arts
-
-* Introduce a £1 billion `Cultural Capital Fund`.
-* Introduce an arts pupil premium- a £160 million annual boost for schools to
-invest in projects that will support cultural activity.
 
 ## Foreign Policy
 
