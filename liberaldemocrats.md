@@ -22,6 +22,7 @@
 * Consider the implementation of `Land Value Taxation`.
 * Require the major banks to fund the creation of a local banking sector
   dedicated to meeting the needs of local SMEs.
+* Uprate working-age benefits at least in line with inflation.
 
 ### Deficit Reduction
 
@@ -39,6 +40,41 @@
   across the north of England and the Midlands.
 * Continue to back new entrants to the energy market, aiming for at least 30%
   of the household market to be supplied by competitors to the ‘Big 6’ by 2022.
+* Directly build homes to fill the gap left by the market, to reach our
+  housebuilding target of 300,000 homes a year, through a government
+  commissioning programme to build homes for sale and rent.
+* Ensure that half a million affordable, energy-efficient homes are built by the end of  
+  the parliament.
+* Create at least 10 new garden cities in England.
+* Set up a new government-backed `British Housing and Infrastructure
+  Development Bank`.
+* End the Voluntary `Right to Buy` pilots.
+* Require local plans to take into account at least 15 years of future housing
+  need.
+* Enable local authorities to:
+  * Levy up to 200% council tax on second homes and ‘buy to leave empty’
+  investments from overseas.
+  * Enforce housebuilding on unwanted public sector land.
+  * Penalise excessive land-banking when builders with planning permission
+  have failed to build after three years.
+  * End the Right to Buy if they choose.
+* Help people who cannot afford a deposit by introducing a new Rent to Own
+  model where rent payments give tenants an increasing stake in the property,
+  owning it outright after 30 years.
+* Ban lettings fees for tenants, cap upfront deposits and increase minimum
+  standards in rented homes.
+* Deliver the `Transport for the North` strategy to promote growth, innovation
+  and prosperity across northern England.
+* Remain opposed to any expansion of Heathrow, Stansted or Gatwick and any new
+  airport in the Thames Estuary and will focus instead on improving existing regional airports such as Birmingham and Manchester. We will ensure no net increase in
+  runways across the UK.
+* Introduce a new Young Person’s Bus Discount Card, for young people aged
+  16–21, giving a two-thirds discount on bus travel.
+* Ensure that every property in the UK is provided, by 2022, with a superfast
+  broadband connection with a download speed of 30Mbps, an upload speed
+  of 6Mbps, and an unlimited usage cap.
+* Invest £2 billion to ensure the provision of highspeed broadband across the
+  rural UK.
 
 ### Industry
 
@@ -218,7 +254,10 @@ maximum sentencing from six months to five years.
   C) by 2022, with priority given to fuel-poor households.
 * Restore the zero-carbon standard for new homes, increasing the standard
   steadily and extending it to non-domestic buildings by 2022.
-*
+* Increase support for homelessness prevention and adequately funding age-appropriate   
+  emergency accommodation and supported housing, while ensuring that all local
+  authorities have at least one provider of the Housing First model of provision
+  for long-term, entrenched homeless people
 
 ## Healthcare
 
@@ -282,14 +321,57 @@ maximum sentencing from six months to five years.
 
 ### Social Services and Security
 
-
+* Expand Shared Parental Leave with an additional ‘use it or lose it’ month to
+  encourage fathers to take time off with young children.
+* Provide 15 hours a week of free childcare to the parents of all two-year-olds in
+  England. We will then prioritise 15 hours’ free childcare for all working parents
+  in England with children aged between nine months and two years.
+* Take 13,000 children out of poverty by letting both parents earn before their
+  `Universal Credit` is cut and also reverse cuts to the Family Element.
+* Reversing the cuts to `Work Allowances` in Universal Credit.
+* Abandon the two-child policy on family benefits and abolish the Conservatives’
+  ‘rape clause’ where a woman has to declare children that are born as a result
+  of rape in order to access benefits.
+* Reversing cuts to housing benefit for 18-21-year-olds and increase the rates of
+  Jobseeker’s Allowance and Universal Credit for those aged 18-24 at the same rate as minimum wages.
+* Reverse cuts to Employment Support Allowance to those in the work-related
+  activity group.
+* Increase Local Housing Allowance (LHA) in line with average rents in an area.
+* Scrap the ‘bedroom tax’.
+* Scrap the discredited Work Capability Assessment and replace it with a new
+  system, run by local authorities according to national rules, including a ‘real
+  world’ test that is based on the local labour market.
+* Withdraw eligibility for the Winter Fuel Payment from pensioners who pay tax
+  at the higher rate (40%).
+* Retain the free bus pass for all pensioners.
+* Maintain the ‘triple lock’ of increasing the state pension each year by the
+  highest of earnings growth, prices growth or 2.5% for the next parliament.
 
 ### Diverse and Cultured Communities
 
 * Ensure that LGBT+ inclusive mental health services receive funding and support.
+* Reduce the proliferation of betting shops and capping the maximum amount able
+  to be bet on fixed odds betting terminals (FOBTs) at one time to £2.
+* Set up a £2 billion `Rural Services Fund` of capital investment to enable
+  communities to establish a local base from which to co-locate services such
+  as council offices, post offices, children’s centres, libraries and visiting
+  healthcare professionals.
+* Maintain free access to national museums and galleries.
+* Protect the independence of the BBC and set up a BBC Licence Fee 66 Support
+  Families and Communities 6 Commission, maintain Channel 4 in public ownership
+  and protect the funding and editorial independence of Welsh language broadcasters.
+* Protect sports and arts funding via the National Lottery.
+* Maintain current standards of intellectual property (IP) protection with
+  continuing co-operation on enforcement of IP generated in the UK and
+  working within the EU to ensure the continuation of territorial licensing of
+  rights.
+* Create `creative enterprise zones`.
 
 ### Disabilities and Mental Health
 
-
+* Raise awareness of, and seek to expand, `Access to Work`, which supports
+  people with disabilities in work.
+* Accelerate the roll-out of `Individual Placement and Support`, a proven
+  approach to getting people with mental ill-health back into work.
 
 ## Foreign Policy
