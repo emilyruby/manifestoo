@@ -144,21 +144,21 @@ leavers and veterans.
 ## Environment and Animal Cruelty
 
 * Introduce an immediate emergency price cap to ensure that the average duel-fuel
-household energy bill remains <£1000 per year.
+  household energy bill remains <£1000 per year.
 * Alter the `National and Regional Network Operator` license conditions.
 * Support the creation of publicly-owned energy companies- at least 1 in every region.
 * Permit publicly-owned companies to buy the regional grid infrastructure.
 * Insulate 4 million homes as an infrastructure priority.
 * Homeowners offered interest-free loans to improve their property.
-* Improve existing `Landloard Energy Efficiency Regulations` and re-establish the
-`Landloard Energy Saving Allowance`.
+* Improve existing `Landlord Energy Efficiency Regulations` and re-establish the
+  `Landlord Energy Saving Allowance`.
 * Ban fracking.
 * Protect the vital North Sea assets.
 * Support further nuclear projects.
 * Put the UK back on track to meet targets in the `Climate Change Act` and the
-`Paris Agreement`.
+  `Paris Agreement`.
 * Introduce a new `Clean Air Act`.
-* Keep forests in public hands and plan a million trees.
+* Keep forests in public hands and plant a million trees.
 * Increase the maximum sentence for those convicted of animal cruelty.
 * Prohibit the 3rd party sale of puppies.
 * Introduce and enforce a total ban on ivory trading.
