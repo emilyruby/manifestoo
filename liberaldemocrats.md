@@ -37,6 +37,8 @@
 * Continue to champion the `Northern Powerhouse and Midlands Engine`
   initiatives and invest significant capital resources in infrastructure projects
   across the north of England and the Midlands.
+* Continue to back new entrants to the energy market, aiming for at least 30%
+  of the household market to be supplied by competitors to the ‘Big 6’ by 2022.
 
 ### Industry
 
@@ -156,11 +158,67 @@
 * Provide assistance to areas heavily dependent on fossil fuel industries, such as
   the north-east of Scotland, to diversify away from these industries.
 * Give the immediate go-ahead to the Swansea Bay tidal lagoon project.
-*
+* Introduce a diesel scrappage scheme, and a ban on the sale of diesel cars and
+  small vans in the UK by 2025.
+* Extend ultra-low-emission zones to 10 more towns and cities.
+* All private hire vehicles and diesel buses licensed to operate in urban areas to
+  run on ultra-low-emission or zero-emission fuels within five years.
+* Pass a Zero-Carbon Britain Act to set new legally binding targets to reduce net
+  greenhouse gas emissions by 80% by 2040 and to zero by 2050.
+* Set up a `British Housing and Infrastructure Development Bank`.
+* Support the `Paris Agreement` by ensuring the UK meets its own climate
+  commitments.
+* Expand renewable energy, aiming to generate 60% of electricity from
+  renewables by 2030, restoring government support for solar PV and onshore
+  wind in appropriate locations (helping meet climate targets at least cost) and
+  building more electricity inter-connectors to underpin this higher reliance on
+  renewables.
+* Support investment in cutting-edge technologies including energy storage,
+  smart grid technology, hydrogen technologies, offshore wind, and tidal power
+  (including giving the go-ahead for the Swansea Bay tidal lagoon), and investing
+  heavily in research and development.
+* Support a carbon capture and storage programme.
+* Oppose fracking.
+* Maintain membership of `Euratom`, ensuring continued nuclear co-operation,
+  research funding, and access to nuclear fuels.
+* Establish a £2 billion flood-prevention fund.
+* Pass a Nature Act to put the Natural Capital Committee (NCC) on a statutory
+  footing, and set legally binding natural capital targets.
+* Create a new designation of national nature parks to protect up to one million
+  acres of accessible green space.
+* Reform of water management and higher water-efficiency standards, and establish
+  a ‘blue belt’ of protected marine areas.
+* Aim to plant a tree for every UK citizen over the next 10 years, and protect
+  remaining ancient woodlands.
+* Suspend the use of neonicotinoids until proven that their use in agriculture
+  does not harm bees or other pollinators.
+* Introduce stronger penalties for animal cruelty offences, increasing the
+maximum sentencing from six months to five years.
+* Bring in a ban on caged hens.
+* Clamp down on illegal pet imports through legal identification requirements
+  for online sales.
+* Minimise the use of animals in scientific experimentation, including by funding       
+  research into alternatives.
+* Introduce a national food strategy.
+* Develop safe, effective, humane and evidence-based ways of controlling
+  bovine TB.
+* Pass a Zero-Waste Act, including legally binding targets for reducing net
+  consumption of key natural resources, and introducing incentives for
+  businesses to improve resource efficiency.
+* Establish a statutory waste recycling target of 70% in England and extend
+  separate food waste collections to at least 90% of homes by 2022.
+* Introduce a 5p charge on disposable coffee cups to reduce waste.
 
 ## Housing
 
-
+* Pass a new `Green Buildings Act` to set new energy-efficiency targets, including a
+  long-term ambition for every home in England to reach at least an energy rating of
+  Band C by 2035.
+* Ensure that at least four million homes are made highly energy efficient (Band
+  C) by 2022, with priority given to fuel-poor households.
+* Restore the zero-carbon standard for new homes, increasing the standard
+  steadily and extending it to non-domestic buildings by 2022.
+*
 
 ## Healthcare
 
