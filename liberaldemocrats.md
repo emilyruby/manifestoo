@@ -23,6 +23,10 @@
 * Require the major banks to fund the creation of a local banking sector
   dedicated to meeting the needs of local SMEs.
 * Uprate working-age benefits at least in line with inflation.
+* Oppose any attempt to withdraw from the ECHR or abolish or water down the
+  Human Rights Act.
+* End the ministerial veto on release of information under the `Freedom of
+  Information Act`.
 
 ### Deficit Reduction
 
@@ -133,6 +137,10 @@
   Insurance Card`, reduced roaming charges and pet passports.
 * Oppose any moves that threaten the political stability of Northern Ireland.
 * Campaign to protect the rights of people in Gibraltar.
+* Ensure that the UK retains international arrangements for jurisdiction, the
+  recognition and enforcement of judgments and for family cases currently
+  enjoyed under the `EU Brussels I` and `Brussels II` regulation and the `Hague
+  child abduction convention`.
 
 ## Education and Childcare
 
@@ -313,7 +321,44 @@ maximum sentencing from six months to five years.
 
 ## Security & Defense
 
-
+* Give an additional £300 million a year to local police forces.
+* Maintain, as part of our fight against hard Brexit, cross-border co-operation in
+  combatting serious organised crime, including international fraud and child
+  sexual exploitation, by retaining the `European Arrest Warrant`, membership of
+  `Europol` and access to EU information databases.
+* End the 1% cap on police pay rises.
+* Require all front-line officers to wear body cameras on duty.
+* Replace `Police and Crime Commissioners`, elected at great expense in
+  elections with very low turnout, with accountable police boards made up of
+  local councillors.
+* Introduce a presumption against short prison sentences and increase the use    
+  non-custodial punishments.
+* Extend the responsibility of the `Youth Justice Board` to all offenders under 21,
+  giving it the power to commission mental-health services.
+* Establish a `Women's Justice Board`.
+* Ensure that trans prisoners are placed in prisons that reflect their gender
+  identity, rather than their birth gender.
+* Scrap the `Prevent` strategy and replace it with a scheme prioritising community
+  engagement.
+* Oppose attempts to undermine encryption.
+* End imprisonment for possession of illegal drugs for personal use, diverting
+  those arrested for possession of drugs for personal use into treatment and
+  education (adopting a health-based approach), or imposing civil penalties.
+* Repeal the `Psychoactive Substances Act`.
+* Commit to spending 2% of GDP on defence.
+* Strengthen our armed services and address critical skills shortages by recruiting
+  STEM graduates to be armed forces engineers, providing ‘golden
+  handshakes’ of up to £10,000.
+* Invest in countering cyberattacks.
+* Maintain a minimum nuclear deterrent. Propose continuing with the
+  `Dreadnought` programme, the submarine-based replacement for `Vanguard`, but
+  procuring three boats instead of four and moving to a medium-readiness
+  responsive posture.
+* Support the `Armed Forces Covenant` and ongoing work to support veterans’
+  mental health.
+* Improve the quality of service housing by bringing the `Ministry of Defence` into
+  line with other landlords, giving tenants the same legal rights to repair and
+  maintenance as private tenants.
 
 ### Local Communities
 
@@ -366,12 +411,84 @@ maximum sentencing from six months to five years.
   working within the EU to ensure the continuation of territorial licensing of
   rights.
 * Create `creative enterprise zones`.
+* Fund more extensive childcare, and provide better back-to-work support to
+  reach an ambitious goal of one million more women in work by 2025.
+* Push for at least 40% of board members being women in FTSE 350 companies and
+  implementing the recommendations of the Parker review to increase ethnic
+  minority representation.
+* Extend the Equality Act to all large companies with more than 250 employees,
+  requiring them to monitor and publish data on gender, BAME, and LGBT+
+  employment levels and pay gaps.
+* Ask the Advisory Committee on Safety of Blood, Tissues and Organs
+  periodically to review rules around men who have sex with men and other
+  related groups donating blood to consider what restrictions remain necessary.
+* Guarantee the freedom of people to wear religious or cultural dress, and
+  tackle the growing incidence of Islamophobic hate crime.
+* Introduce an ‘X’ option on passports, identity documents, and official forms for
+  those who do not wish to identify as either male or female, and campaign for
+  their introduction in the provision of other services, for example utilities.
+* Decriminalise the sale and purchase of sex, and the management of sex work.
+* Strengthen legal rights and obligations for couples by introducing mixed-sex
+  civil partnerships and extending rights to cohabiting couples.
+* Extend protection of gender reassignment in equality law to explicitly cover
+  gender identity and expression, and streamline and simplify the Gender
+  Recognition Act 2004 to allow individuals to change their legal gender without
+  unnecessary bureaucratic hurdles.
+* Address period poverty by providing free sanitary products to girls at school.
+* Resource BAME staff associations such as the National Black Police Association
+  to increase ethnic diversity and BAME participation in the police.
+* Provide additional government funding for English as an additional language
+  classes.
 
 ### Disabilities and Mental Health
-
+Replace Police and Crime Commissioners, elected at great expense in
+elections with very low turnout, with accountable police boards made up of
+local councillors.
 * Raise awareness of, and seek to expand, `Access to Work`, which supports
   people with disabilities in work.
 * Accelerate the roll-out of `Individual Placement and Support`, a proven
   approach to getting people with mental ill-health back into work.
+* Increase accessibility to public places and transport by making more stations
+  wheelchair accessible.
 
 ## Foreign Policy
+
+* Hold an annual debate in parliament on skill and labour market shortfalls and
+  surpluses.
+* Continue to allow high-skilled immigration to support key sectors of our economy.
+* We will reinstate post-study work visas for graduates in `STEM` (science, technology,
+  engineering and maths) subjects who find suitable employment within six
+  months of graduating.
+* Establish a centrally funded `Migration Impact Fund`.
+* Offer safe and legal routes to the UK for refugees to prevent them from making
+  dangerous journeys.
+* Expand the `Syrian Vulnerable Persons Resettlement Scheme` to offer sanctuary
+  to 50,000 people over the lifetime of the next parliament.
+* Re-open the `Dubs unaccompanied child refugee scheme`, ensuring Britain
+  meets its responsibilities by taking in 3,000 unaccompanied refugee children.
+  Liberal Democrats would offer these children `indefinite leave to remain`,
+  meaning they will not be deported once they turn 18.
+* End indefinite immigration detention by introducing a 28-day limit.
+* Offer asylum to people fleeing countries where their sexual orientation or
+  gender identification means that they risk imprisonment, torture or execution,
+  and stop deporting people at risk to such countries.
+* Champion the `rules-based international order`.
+* Support the `UN principle of Responsibility to Protect`.
+* Implementing a policy of `presumption of denial` for arms exports to
+  countries listed as human rights priority countries in the `Foreign and
+  Commonwealth Office`’s annual human rights report.
+* Creating a public register of arms brokers.
+* Remain committed to a negotiated peace settlement to the `Israeli-Palestinian
+  conflict`, which includes a `two-state solution`.
+* Suspend UK arms sales to Saudi Arabia in response to their consistent
+  targeting of civilians, in breach of international humanitarian law, in Yemen.
+* We will work closely with European and other international partners to exert
+  maximum economic and political pressure on Russia to stop interfering in the
+  affairs of sovereign Eastern European nations, and will stand by our obligations
+  under the NATO treaty in the event of threats to NATO member states.
+* Work to lead international nuclear disarmament efforts.
+* Maintain our commitment to spend 0.7% of UK gross national income on `overseas   
+  development assistance`.
+* Invest to eliminate within a generation preventable diseases like TB, HIV and
+  malaria.
+* Develop a global education strategy.
