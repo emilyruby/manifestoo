@@ -27,10 +27,14 @@
   Human Rights Act.
 * End the ministerial veto on release of information under the `Freedom of
   Information Act`.
-
-### Deficit Reduction
-
-
+* Introduce votes at 16 for all elections and referendums across the UK.
+* Introduce the `Single Transferable Vote` for local government elections in
+  England and for electing MPs across the UK.
+* Enable all UK citizens living abroad to vote for MPs in separate overseas
+  constituencies, and to participate in UK referendums.
+* Reform the `House of Lords` with a proper democratic mandate.
+* Cap donations to political parties at £10,000 per person each year.
+* Introduce trials of weekend voting to help raise turnouts in elections
 
 ### Infrastructure
 
@@ -362,7 +366,15 @@ maximum sentencing from six months to five years.
 
 ### Local Communities
 
-
+* Extend the Equality Act to all large companies with more than 250 employees,
+  requiring them to monitor and publish data on gender, BAME, and LGBT+
+  employment levels and pay gaps.
+* Set up a £2 billion `Rural Services Fund` of capital investment to enable
+  communities to establish a local base from which to co-locate services such
+  as council offices, post offices, children’s centres, libraries and visiting
+  healthcare professionals.
+* Reduce the proliferation of betting shops and capping the maximum amount able
+  to be bet on fixed odds betting terminals (FOBTs) at one time to £2.
 
 ### Social Services and Security
 
@@ -395,12 +407,6 @@ maximum sentencing from six months to five years.
 ### Diverse and Cultured Communities
 
 * Ensure that LGBT+ inclusive mental health services receive funding and support.
-* Reduce the proliferation of betting shops and capping the maximum amount able
-  to be bet on fixed odds betting terminals (FOBTs) at one time to £2.
-* Set up a £2 billion `Rural Services Fund` of capital investment to enable
-  communities to establish a local base from which to co-locate services such
-  as council offices, post offices, children’s centres, libraries and visiting
-  healthcare professionals.
 * Maintain free access to national museums and galleries.
 * Protect the independence of the BBC and set up a BBC Licence Fee 66 Support
   Families and Communities 6 Commission, maintain Channel 4 in public ownership
@@ -416,9 +422,6 @@ maximum sentencing from six months to five years.
 * Push for at least 40% of board members being women in FTSE 350 companies and
   implementing the recommendations of the Parker review to increase ethnic
   minority representation.
-* Extend the Equality Act to all large companies with more than 250 employees,
-  requiring them to monitor and publish data on gender, BAME, and LGBT+
-  employment levels and pay gaps.
 * Ask the Advisory Committee on Safety of Blood, Tissues and Organs
   periodically to review rules around men who have sex with men and other
   related groups donating blood to consider what restrictions remain necessary.
@@ -492,3 +495,9 @@ local councillors.
 * Invest to eliminate within a generation preventable diseases like TB, HIV and
   malaria.
 * Develop a global education strategy.
+* Provide ad hoc funding to `UNESCO’s International Programme for the Development
+  of Communication`.
+* Campaign strongly for the abolition of the death penalty around the world.
+* Publish a government anti-corruption strategy.
+* Develop a comprehensive strategy for promoting the decriminalisation of
+  homosexuality around the world and advancing the cause of LGBT+ rights
