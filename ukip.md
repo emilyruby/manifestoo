@@ -26,6 +26,15 @@
 
 * Close the loophole allowing businesses to pay tax in whichever EU or associated
   country they choose.
+* Create a new `Coastal Towns Taskforce`.
+* Within `coastal enterprise zones`:
+    * Businesses operating from premises with a rateable value of less that
+      £50,000 will receive a 50% cut in business rates.
+    * Local authorities will be given access to low interest government zones to
+      buy up and renovate poor housing stock or empty commercial properties.
+    * Local authorities can introduce minimum standards for properties in
+      receipt of housing benefit.
+* Resume Britain's 200-mile maritime exclusive economic zone. 
 
 ### Employment
 
@@ -41,7 +50,7 @@
   foreign applicant.
 * Make Gordon Brown's `British Jobs for British Workers` plausible and meaningful
   in law.
-  
+
 
 ## Brexit
 
