@@ -34,7 +34,7 @@
       buy up and renovate poor housing stock or empty commercial properties.
     * Local authorities can introduce minimum standards for properties in
       receipt of housing benefit.
-* Resume Britain's 200-mile maritime exclusive economic zone. 
+* Resume Britain's 200-mile maritime exclusive economic zone.
 
 ### Employment
 
@@ -67,6 +67,12 @@
 ## Housing
 
 * Encourage the `Buy British` campaign.
+* Establish a `Housing Development Corporation` to acquire primarily brownfield
+  sites where affordable housing is required.
+* Change planning law to enable the `HDC` to give themselves planning permission
+  to build between 10 and 100 FBM homes on an average site.
+* Identify long term dormant land held by central and local government and
+  release it for affordable development.
 
 ## Healthcare
 
