@@ -32,6 +32,16 @@
 * Raise the 40% income tax threshold to £55,000.
 * Allow women to retire in a flexible state pension window at 60, if they so
   wish.
+* No quarterly tax returns or increase in `Class IV National Insurance` or taxes
+  for self-employed people.
+* Bring forward legislation requiring employers to advertise jobs to British
+  Citizens before they offer them overseas.
+* Ensure employers are legally free to choose to hire a young unemployed British
+  person under the age of 25 ahead of a better qualified or more experienced
+  foreign applicant.
+* Make Gordon Brown's `British Jobs for British Workers` plausible and meaningful
+  in law.
+  
 
 ## Brexit
 
