@@ -15,6 +15,8 @@
   eliminate inheritance tax all together.
 * Cutting business rates by 20 per cent for 1.5 million British businesses which
   are operating from premises with a rateable value of less than £50,000.
+* Freeze `Air Passenger Duty` at current levels, and when possible in the future
+  seek to reduce it with the long-term objective of scrapping it completely.
 
 ### Infrastructure
 
@@ -24,6 +26,13 @@
 * Amend planning legislation in order to make play spaces compulsory in housing
   estates, and to promote nursery or creche provision in developments such as
   shopping centres, office blocks, hospitals, airports, and railway stations.
+* Scrap HS2 and invest in upgrading existing main line services to create
+  additional capacity.
+* Oppose the new `Thames Crossing` in Thurrock, and look to reopening a
+  consultation for a new crossing further east.
+* Support the installation of rapid charging stations in towns and cities.
+* Stop mandatory fitment of the e-call vehicle tracking system on new cars.
+* Exempt vehicles over 25 years old from `Vehicle Excise Duty`.
 
 ### Industry
 
@@ -85,7 +94,7 @@
 
 ## Environment and Animal Cruelty
 
-
+* 
 
 ## Housing
 
@@ -166,6 +175,7 @@
   parliament.
 * Create the role of `Director of National Intelligence` who will lead a single
   unified intelligence service.
+* Commission, equip and staff a `Naval Ocean-Going Surgical Hospital (NOSH)`.
 
 ### Local Communities
 
@@ -252,4 +262,9 @@
   EU.
 * Test the social attitudes of migration applicants to foster community cohesion
   and protect core British values.
-* Oppose any form of military integration with the European Union. 
+* Oppose any form of military integration with the European Union.
+* Close down the `Department for International Development`. A single `Minister
+  for Overseas Development` working from the `Foreign and Commonwealth Office`
+  will administer aid.
+* Repeal the law requiring us to spend 0.7% of our GNI on foreign aid, and
+  reduce the aid budget to 0.2% of GNI over time.
