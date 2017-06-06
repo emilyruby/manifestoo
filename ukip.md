@@ -76,7 +76,32 @@
 
 ## Healthcare
 
-
+* Provide NHS England with an additional £9 billion a year by 2021/22, with
+  an additional £2 billion for social care.
+* Lift the cap on medical school training places from 7,500 to 10,000.
+* Cover the cost of medical students' tuition fees as long as they commit to
+  working within the NHS for at least 10 our of the 15 years after they qualify.
+* Fund the cost of 'return to practice' training, and encourage retired GPs or
+  GPs with small children to work part-time or in job-share schemes.
+* Increase the number of nurse training placements and reinstate funding for
+  bursaries to cover nursing, midwifery and allied health professions' tuition
+  and accommodation costs.
+* Discontinue the 1% pay increase cap for frontline NHS workers earning less
+  than £35,000.
+* Establish a `Department for Health and Care`, along with a funded social care
+  system assimilated to the NHS.
+* Only British Citizens or foreign nationals who have paid UK taxes for at least
+  5 consecutive years will be eligible for non-urgent NHS care. Anybody else
+  must provide evidence of comprehensive medical insurance before being allowed
+  to enter Britain, and maintain that insurance for the duration of their stay,
+* Create the equivalent of the `General Medical Council` for NHS managers.
+* Limit the amount that can be spent on external management consultancy
+  contract to £50,000.
+* Guarantee the right to remain to EU nationals working in health and social
+  care.
+* Establish a `Royal Commission`.
+* Scrap hospital care parking charges in England.
+* Abolish the `Care Quality Commission` and implement a new inspection regime.
 
 ## Security & Defense
 
