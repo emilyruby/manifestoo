@@ -48,9 +48,14 @@
 * Ensure employers are legally free to choose to hire a young unemployed British
   person under the age of 25 ahead of a better qualified or more experienced
   foreign applicant.
-* Make Gordon Brown's `British Jobs for British Workers` plausible and meaningful
-  in law.
-
+* Make Gordon Brown's `British Jobs for British Workers` plausible and  
+  meaningful in law.
+* Abolish tuition fees for undergraduate STEM students, provided they work in
+  their discipline and pay tax in the UK for at least 5 years after they
+  complete their degree.
+* Fund all secondary schools according to a single formula.
+* Make first aid training a statutory requirement so pupils can obtain a `Basic
+  Life-Saving Diploma`.
 
 ## Brexit
 
@@ -58,7 +63,14 @@
 
 ## Education and Childcare
 
-
+* Make specialist counselling services available in all secondary schools.
+* Introduce emotional health and wellbeing into the Ofsted inspection framework.
+* Abolish `Key Stage 1 SATs`.
+* Require every primary school to nominate a science leader.
+* Open a grammar school in every town.
+* Stop paying tuition fees for courses which do not lead to at least two thirds
+  of students into a graduate level job.
+* Cease offering EU nationals student loans once we use the EU.
 
 ## Environment and Animal Cruelty
 
@@ -102,6 +114,10 @@
 * Establish a `Royal Commission`.
 * Scrap hospital care parking charges in England.
 * Abolish the `Care Quality Commission` and implement a new inspection regime.
+* Increase planned spending on mental health services by at least £500 million
+  every year.
+* Integrate mental health training into the teacher-training syllabus and
+  develop a national school-based counselling strategy for England.
 
 ## Security & Defense
 
@@ -113,7 +129,10 @@
 
 ### Social Services and Security
 
-
+* Integrate mental wellbeing monitoring into existing medical examinations for
+  serving armed forces personnel in potentially traumatic or 'at risk' roles.
+* Extend the period during which discharged service personnel are able to access
+  the specialist `DHMS` scheme from six months to two years.
 
 ### Diverse and Cultured Communities
 
