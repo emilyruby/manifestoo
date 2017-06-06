@@ -309,8 +309,8 @@
 
 * Require companies with >250 employees to publish more data on the pay gap
   between men and women.
-* Reduce the disproportionate use of force against black, asian and ethnic minority
-  people in prison, young offenders institutions and secure mental health units.
+* Reduce the disproportionate use of force against black, asian and ethnic
+  minority people in prison, young offenders institutions and secure mental health units.
 * Launch a national campaign to increase the number of black, asian and ethnic
   minority organ donors.
 

@@ -59,6 +59,12 @@
 * Fund all secondary schools according to a single formula.
 * Make first aid training a statutory requirement so pupils can obtain a `Basic
   Life-Saving Diploma`.
+* Guarantee a job in the police service, prison service or border force for
+  anyone who has served in the Armed Forces for a minimum of 12 years.
+* `Boots to Business` policy to help ex-service personnel set up their own
+  businesses by offering loans, grants, free professional advice and mentoring
+  to any veteran who wishes to pursue an entrepreneurial career after leaving
+  the forces.
 
 ## Brexit
 
@@ -90,6 +96,9 @@
   to build between 10 and 100 FBM homes on an average site.
 * Identify long term dormant land held by central and local government and
   release it for affordable development.
+* Enforce a law stating that veterans must be offered homes, and build 8 halfway
+  house veterans' hostels, each with 200 rooms.
+* Assign 500 affordable rent homes every year to ex-forces personnel.
 
 ## Healthcare
 
@@ -126,7 +135,37 @@
 
 ## Security & Defense
 
-
+* Make failure to report a known instance of FGM a criminal offence.
+* Make FGM an indictable offence with a sentencing starting pointing of 6
+  years.
+* Make 'breast-ironing' a specific criminal offence.
+* Prosecute all cases of child and forced marriage and refuse permanent leave to
+  remain and/or British Citizenship to any adult known to have procured a child
+  marriage for themselves or their children.
+* Ensure that neither the legal nor the welfare system in Britain ever
+  recognises polygamy.
+* Ban wearing of the niqab or the burqa in public places.
+* Immediately put special measures in schools found to be exposing children to
+  Islamism.
+* Give schools the right to dismiss forthwith any teachers, members of staff or
+  governors found to be actively supporting radical mosques or imams.
+* Train and deploy 20,000 more police and employ 7,000 more prison officers.
+* Reinstate full `Stop and Search` powers to the police.
+* Send as many as possible of the 13,000 foreign nationals in our jails back to
+  their countries of origin.
+* Refuse admission to prizons to any imam, preacher or individual known to
+  promote views contrary to British values.
+* Repeal the `2003 Licensing Act` and bring in new legislation to reduce the
+  density of alcohol outlets and restrict trading times.
+* Introduce a new `UK Bill of Rights`.
+* Update licensing laws to limit the maximum stake on fixed-odds betting
+  terminals to £2.
+* Refuse to give prisoners the vote.
+* Retain Britain's independent nuclear deterrent.
+* Scale up defence by spending an additional £1 billion per year by the end of
+  parliament.
+* Create the role of `Director of National Intelligence` who will lead a single
+  unified intelligence service.
 
 ### Local Communities
 
@@ -164,7 +203,8 @@
 
 ### Diverse and Cultured Communities
 
-*
+* Establish a legal commission to draw up proposals to disband sharia councils.
+
 
 ### Disabilities and Mental Health
 
@@ -212,3 +252,4 @@
   EU.
 * Test the social attitudes of migration applicants to foster community cohesion
   and protect core British values.
+* Oppose any form of military integration with the European Union. 
