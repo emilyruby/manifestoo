@@ -19,8 +19,11 @@
 ### Infrastructure
 
 * Scrap 'white elephant vanity' projects such as HS2.
-* Push every local authority in the country to offer at least 30 minutes’ free   
+* Push every local authority in the country to offer at least 30 minutes’ free
   parking in town centres and shopping parades.
+* Amend planning legislation in order to make play spaces compulsory in housing
+  estates, and to promote nursery or creche provision in developments such as
+  shopping centres, office blocks, hospitals, airports, and railway stations.
 
 ### Industry
 
@@ -71,6 +74,8 @@
 * Stop paying tuition fees for courses which do not lead to at least two thirds
   of students into a graduate level job.
 * Cease offering EU nationals student loans once we use the EU.
+* Extend the primary school day by offering wrap-around childcare from 8am to
+  6pm during term time.
 
 ## Environment and Animal Cruelty
 
@@ -133,14 +138,39 @@
   serving armed forces personnel in potentially traumatic or 'at risk' roles.
 * Extend the period during which discharged service personnel are able to access
   the specialist `DHMS` scheme from six months to two years.
+* Create a fund worth £80 million a year to help childminders and smaller
+  childcare and smaller childcare providers employing 5 people or fewer.\
+* Remove the current blanket ban on media reporting of placement and adoption
+  proceedings and allowing journalists to report on such cases on the same basis
+  as other family law proceedings.
+* Maintain the `Pensions Triple-Lock` on the state pension, increasing it every
+  year by the highest of inflation, average earnings, or 2.5%.
+* Invest up to £2 billion every year into social care.
+* Continue to pay `Attendance Allowance` for all people over the age of 65 who
+  need help with personal care.
+* Treble the amount allocated to dementia research and treatment in 2015.
+* Fund a co-ordinating service for older and disabled people in every county to
+  combat loneliness.
+* Introduce a legally binding `Dignity Code` to improve the quality and standard
+  of care for older people in hospital, care homes or their own home, and
+  protect whistleblowers.
+* Commit to giving carers an extra 5 days paid holiday each year, and increase  
+  `Carer's Allowance` from £62.70 per week to £73.10.
+* Scrap the bedroom tax.
+* Give tenants the right to request `Housing Benefit` is paid direct to their
+  landlords, whatever benefit scheme they are on.
+* Exempt foodbanks and charity shops from charges imposed by local authorities
+  to dispose of unwanted food waste and other goods.
 
 ### Diverse and Cultured Communities
 
-
+*
 
 ### Disabilities and Mental Health
 
-
+* No cuts to disability benefits.
+* Abolish the annual assessment process for continuing healthcare funding in
+  respect of those suffering from a degenerative, terminal illness.
 
 ## Foreign Policy
 
@@ -149,3 +179,36 @@
 * Cut EU regulation from the 88% of the UK economy that is not linked to trade
   with EU countries.
 * Prioritise free trade agreements with non-EU countries.
+* Establish a `Migration Control Commission`.
+* Set a target to reduce net migration to zero over a five year period.
+* Place a moratorium on unskilled and low-skilled immigration for five years
+  after we leave the EU.
+* A new international visa system with four principal visa categories:
+  * Work Visas. Highly skilled workers with a job offer sponsored by companies
+    paying them a minimum of £30,000 per annum will have priority.
+  * Tourist and Visitor visas which covers those who come to Britain as
+    tourists, to conduct business, or to see family. Valid for up to 12 months.
+  * Student visas.
+  * Family Reunion Visas. Foreign nationals marrying British citizens will have
+    to prove the primary purpose of their marriage is not to obtain British
+    residency.
+* Abolish the `European Economic Area Family Permit Scheme`, and reinstate the
+  primary purpose rule.
+* All new migrants to Britain will be expected to make tax and national
+  insurance contributions for at least five consecutive years before they become
+  eligible to claim UK benefits, or access non-urgent NHS services, save for any
+  exceptions stipulated by the `Migration Control Commission`.
+* Those arriving on work visas may apply for British Citizenship after five
+  years, provided they have worked and paid tax here, and maintained their
+  medical insurance throughout that time.
+* No amnesty for illegal immigrants.
+* Foreign criminals will not be granted a visa to enter the UK.
+* Migrants who commit crimes resulting in a custodial sentence will have their
+  visa revoked and be detained until they are deported.
+* Allow law-abiding EU citizens living in the UK before Article 50 was triggered
+  the right to stay here indefinitely, and expect the same concession to be
+  granted to British citizens living overseas within the EU.
+* No benefits will be paid for any dependents living overseas when we leave the
+  EU.
+* Test the social attitudes of migration applicants to foster community cohesion
+  and protect core British values.
