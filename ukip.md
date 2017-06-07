@@ -17,6 +17,16 @@
   are operating from premises with a rateable value of less than £50,000.
 * Freeze `Air Passenger Duty` at current levels, and when possible in the future
   seek to reduce it with the long-term objective of scrapping it completely.
+* Strongly advocate for a proportional electoral system that makes seats match
+  votes.
+* Reserve the postal vote.
+* Abolish the House of Lords.
+* The size of the `House of Commons` will be halved to 325 directly elected
+  members, according to a system of proportional representation.
+* Pass legislation to allow a national referendum to be held every 2 years, on
+  the issues gaining the highest numbers of signatures on approved petitions.
+  The outcomes of these referenda would be legally binding and included in the
+  Queen's Speech.
 
 ### Infrastructure
 
@@ -77,7 +87,24 @@
 
 ## Brexit
 
-
+* Cease offering EU nationals student loans once we use the EU.
+* Reduce from the `Paris Climate Agreement` and the `EU Emissions Trading
+  Scheme`.
+* Prosecute all cases of child and forced marriage and refuse permanent leave to
+  remain and/or British Citizenship to any adult known to have procured a child
+  marriage for themselves or their children.
+* Send as many as possible of the 13,000 foreign nationals in our jails back to
+  their countries of origin.
+* Introduce a new `UK Bill of Rights`.
+* End our financial contributions to the EU budget.
+* Cut EU regulation from the 88% of the UK economy that is not linked to trade
+  with EU countries.
+* Prioritise free trade agreements with non-EU countries.
+* Establish a `Migration Control Commission`.
+* Set a target to reduce net migration to zero over a five year period.
+* Place a moratorium on unskilled and low-skilled immigration for five years
+  after we leave the EU.
+* Oppose any form of military integration with the European Union.
 
 ## Education and Childcare
 
@@ -88,13 +115,28 @@
 * Open a grammar school in every town.
 * Stop paying tuition fees for courses which do not lead to at least two thirds
   of students into a graduate level job.
-* Cease offering EU nationals student loans once we use the EU.
 * Extend the primary school day by offering wrap-around childcare from 8am to
   6pm during term time.
 
 ## Environment and Animal Cruelty
 
-* 
+* Match fund grants made by local authorities for rural capital projects which
+  enhance local environment or help recovery from environmental disasters.
+* Ban the use of pair trawling for sea bass.
+* Offer local referenda to overturn unpopular development approvals.
+* Ban the export of animals for fattening and slaughter.
+* Install CCTV in every abatoir.
+* Forbid Jewish and Muslim methods of slaughter being carried out by unqualified
+  individuals.
+* Insist all meat labelling identifies the method of slaughter.
+* Triple the maximum jail sentences for animal cruelty.
+* Impose lifetime bans on owning and/or looking after animals on any individual
+  or company convicted of animal cruelty.
+* Repeal the `2008 Climate Change Act`.
+* Remove VAT from domestic fuel.
+* Scrap green levies on household bills.
+* Not allow drilling for shale in our national parks and other areas of
+  outstanding natural beauty.
 
 ## Housing
 
@@ -148,9 +190,6 @@
 * Make FGM an indictable offence with a sentencing starting pointing of 6
   years.
 * Make 'breast-ironing' a specific criminal offence.
-* Prosecute all cases of child and forced marriage and refuse permanent leave to
-  remain and/or British Citizenship to any adult known to have procured a child
-  marriage for themselves or their children.
 * Ensure that neither the legal nor the welfare system in Britain ever
   recognises polygamy.
 * Ban wearing of the niqab or the burqa in public places.
@@ -160,13 +199,10 @@
   governors found to be actively supporting radical mosques or imams.
 * Train and deploy 20,000 more police and employ 7,000 more prison officers.
 * Reinstate full `Stop and Search` powers to the police.
-* Send as many as possible of the 13,000 foreign nationals in our jails back to
-  their countries of origin.
-* Refuse admission to prizons to any imam, preacher or individual known to
+* Refuse admission to prisons to any imam, preacher or individual known to
   promote views contrary to British values.
 * Repeal the `2003 Licensing Act` and bring in new legislation to reduce the
   density of alcohol outlets and restrict trading times.
-* Introduce a new `UK Bill of Rights`.
 * Update licensing laws to limit the maximum stake on fixed-odds betting
   terminals to £2.
 * Refuse to give prisoners the vote.
@@ -179,7 +215,8 @@
 
 ### Local Communities
 
-
+* Exempt foodbanks and charity shops from charges imposed by local authorities
+  to dispose of unwanted food waste and other goods.
 
 ### Social Services and Security
 
@@ -208,13 +245,10 @@
 * Scrap the bedroom tax.
 * Give tenants the right to request `Housing Benefit` is paid direct to their
   landlords, whatever benefit scheme they are on.
-* Exempt foodbanks and charity shops from charges imposed by local authorities
-  to dispose of unwanted food waste and other goods.
 
 ### Diverse and Cultured Communities
 
 * Establish a legal commission to draw up proposals to disband sharia councils.
-
 
 ### Disabilities and Mental Health
 
@@ -225,14 +259,6 @@
 ## Foreign Policy
 
 * Reduce foreign aid to 0.2 per cent of `Gross National Income`.
-* End our financial contributions to the EU budget.
-* Cut EU regulation from the 88% of the UK economy that is not linked to trade
-  with EU countries.
-* Prioritise free trade agreements with non-EU countries.
-* Establish a `Migration Control Commission`.
-* Set a target to reduce net migration to zero over a five year period.
-* Place a moratorium on unskilled and low-skilled immigration for five years
-  after we leave the EU.
 * A new international visa system with four principal visa categories:
   * Work Visas. Highly skilled workers with a job offer sponsored by companies
     paying them a minimum of £30,000 per annum will have priority.
@@ -262,7 +288,6 @@
   EU.
 * Test the social attitudes of migration applicants to foster community cohesion
   and protect core British values.
-* Oppose any form of military integration with the European Union.
 * Close down the `Department for International Development`. A single `Minister
   for Overseas Development` working from the `Foreign and Commonwealth Office`
   will administer aid.
