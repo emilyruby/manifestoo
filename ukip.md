@@ -213,7 +213,7 @@
   unified intelligence service.
 * Commission, equip and staff a `Naval Ocean-Going Surgical Hospital (NOSH)`.
 
-### Local Communities
+### Local Communities
 
 * Exempt foodbanks and charity shops from charges imposed by local authorities
   to dispose of unwanted food waste and other goods.
