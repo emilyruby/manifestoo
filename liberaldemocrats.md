@@ -444,9 +444,10 @@ maximum sentencing from six months to five years.
   classes.
 
 ### Disabilities and Mental Health
-Replace Police and Crime Commissioners, elected at great expense in
-elections with very low turnout, with accountable police boards made up of
-local councillors.
+
+* Replace Police and Crime Commissioners, elected at great expense in
+  elections with very low turnout, with accountable police boards made up of
+  local councillors.
 * Raise awareness of, and seek to expand, `Access to Work`, which supports
   people with disabilities in work.
 * Accelerate the roll-out of `Individual Placement and Support`, a proven
